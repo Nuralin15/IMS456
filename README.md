@@ -13,7 +13,7 @@
                 <li>Program Code : IM246</li> 
                 <li>Faculty : Information Management</li> 
                 <li>Submission Date : 16 June 2022</li> 
-                <li>Published URL : https://nuralin15.github.io/IMS456/index.html/</li> 
+                <li>Published URL : https://nuralin15.github.io/IMS456/</li> 
                 <li>Image<img src="image/Alin.png" width="50%"></li>
             </ul> 
         </body> 
