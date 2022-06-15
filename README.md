@@ -14,7 +14,7 @@
                 <li>Faculty : Information Management</li> 
                 <li>Submission Date : 16 June 2022</li> 
                 <li>Published URL : https://nuralin15.github.io/IMS456/index.html/</li> 
-                <li>Image</li> <img class="image-Alin" src="images/Athirah.jpg.jpg"> 
+                <li>Image</li> <img class="image-Alin" src="image/Athirah.jpg.jpg"> 
                  
             </ul> 
         </body> 
